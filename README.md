@@ -54,10 +54,48 @@ I’m currently working on **production-grade AI systems**, exploring **model or
 
 ## 📌 Projects
 
-### 🔹 [StudyBuddy](https://studybuddy.rest)
-> **AI-powered study companion** designed to help students learn smarter and faster.  
-> **Tech:** Next.js, TypeScript, Tailwind, Node.js, PostgreSQL, Redis, OpenAI / Gemini  
-> **Features:** AI Chat, Notes Generator, Quiz Generator, Visual Aids, Study Planner, Study Clubs, File Uploads, Last-Minute Revision Kits
+### 🔹 **StudyBuddy** — *AI-Powered Study & Productivity Platform*  
+> **A production-grade AI learning platform solving real-world student productivity and revision challenges.**  
+> 🌐 https://studybuddy.rest
+
+**StudyBuddy** is an **AI-powered study companion** built to help students **learn smarter, revise faster, and stay consistent**—addressing real-world problems like inefficient revision, lack of personalized study plans, and scattered learning resources. The platform is actively used by **900+ registered users** and supports **daily active learners** preparing for exams, assignments, and competitive tests.
+
+📌 **Key Highlights:**  
+- **Real-World Usage:** Used daily by hundreds of students for revision, planning, and exam preparation.  
+- **AI-Powered Learning:** Personalized explanations, summaries, quizzes, and revision material tailored to user needs.  
+- **Last-Minute Revision Kits:** Automatically generates concise overviews, MCQs, flashcards, formulas, and exam tips.  
+- **Smart Study Planner:** Creates AI-generated weekly schedules based on syllabus, deadlines, and availability.  
+- **Interactive Learning Tools:** AI Chat, Notes Generator, Visual Aids (flowcharts & diagrams), and Quiz Generator.  
+- **Collaboration & Accountability:** Study Clubs enable real-time collaboration, shared progress, and peer motivation.  
+- **File-Based Learning:** Upload PDFs, notes, or documents and instantly convert them into structured study material.
+
+💡 **Tech Stack & Architecture:**  
+Built with **Next.js**, **TypeScript**, and **Tailwind CSS** on the frontend, with a scalable backend using **Node.js**, **PostgreSQL**, **Redis**, and AI integrations such as **OpenAI / Gemini**. Designed with performance, caching, and scalability in mind to support growing daily usage.
+
+**Impact:**  
+StudyBuddy directly addresses common student pain points—information overload, inefficient revision, and lack of structure—by delivering a **single, AI-driven platform** that improves productivity, retention, and exam readiness.
+
+
+### 🔹 **Pinehill Publications** — *Digital-First Academic Publishing Platform*  
+> **An eco-friendly, modern academic publishing platform empowering authors, researchers, and educators to publish, distribute, and showcase their work globally.**  
+> 🌐 https://pinehillpublications.com
+
+**Pinehill Publications** is a **next-generation digital publishing ecosystem** designed to make academic and literary publishing **accessible, affordable, and sustainable**. Built with **Next.js (App Router)** and powered by **Supabase**, it combines a clean, high-performance frontend with a reliable, scalable backend architecture.
+
+📌 **Key Highlights:**  
+- **Digital-First & Eco-Friendly:** Prioritizes eBooks and web-readable formats to reduce environmental impact and promote sustainable publishing.  
+- **Author-Centric Royalties:** Enables authors to retain **80–100% of their earnings**, ensuring fair and transparent compensation.  
+- **Fast & Transparent Publishing:** Streamlined workflows allow books to go live within days without compromising quality.  
+- **Global Distribution:** Published works are distributed internationally through major eBook platforms and Pinehill’s own network.  
+- **Flexible Publishing Packages:** Offers affordable, transparent pricing with digital-only and hybrid print + digital options.  
+- **Full Author Control:** Authors retain complete copyright ownership, creative freedom, and receive dedicated publishing support.
+
+💡 **Tech Stack & Role:**  
+Developed using **Next.js App Router** for a modular and performant frontend, integrated with **Supabase** for authentication, database management, and real-time features—delivering a seamless experience for authors and readers.
+
+**Impact:**  
+Pinehill Publications lowers barriers to academic publishing, supports emerging authors and regional voices, and promotes a modern, inclusive, and eco-conscious publishing ecosystem.
+
 
 ---
 
